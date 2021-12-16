@@ -16,7 +16,7 @@ At the windows side of configuration last step is adding DISPLAY environmental
 variable to windows with value:
 	localhost:0.0
 
-# Linux side configuration
+## Linux side configuration
 Type:
 	sudo vi /etc/ssh/sshd_config
 Check if X11Forwarding is enabled. If not set value to yes and then
