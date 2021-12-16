@@ -6,8 +6,7 @@ Just click normally with defaults until windows with Extra settings appears.
 Select last checkbox with "Disable access control". When firewall windows security 
 alert appears tick also second checkbox with "Public networks..."
 
-Then use instruction from this post:
-https://stackoverflow.com/a/63174434
+Then use instruction from this [post](https://stackoverflow.com/a/6317443).
 Follow firewall related steps. Rest of post at the end is WSL2 specific.
 
 At the end of VcXSrv configuration you should see button to saving configuration
